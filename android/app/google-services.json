@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690739612025",
+    "project_id": "pcsolution512",
+    "storage_bucket": "pcsolution512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690739612025:android:522eaade6fe3e6c61c47a8",
+        "android_client_info": {
+          "package_name": "xyz.amsiam3.pcsolution512"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690739612025-uispb7nquof89jablc7rgr5g3j3ug3l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNLbPyIG1il9EYzhEPzcbNjPcqYmdsNU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690739612025-uispb7nquof89jablc7rgr5g3j3ug3l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
